@@ -1,0 +1,1 @@
+web: sh setup.sh && streanlit run Diabetes-pred-webapp.py
